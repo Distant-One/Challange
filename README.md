@@ -1,2 +1,2 @@
-# Challange
+# Challenge
 Crypto-Challenge Code
